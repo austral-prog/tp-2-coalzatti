@@ -1,6 +1,6 @@
 def earth():
     x = "Bangladesh"
     y = "Barbados"
-    print("The result of X comes first in the dictionary than Y is",y > x / x > y)
-    print("The result of Y comes first in the dictionary than X is",y > x / x > y)  
+    print("The result of X comes first in the dictionary than Y is True/False.")
+    print("The result of Y comes first in the dictionary than X is True/False.")  
 earth()
